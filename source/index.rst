@@ -22,8 +22,8 @@ This website is here to provide you with:
 Below you'll find the map to this content and anything else we add as we go
 along.
 
-Cheers!
-Ian
+| Cheers!
+| Ian
 
 
 .. toctree::
